@@ -8,7 +8,7 @@ class About extends Component {
       
       return (
         <>
-          <h1>오늘의 날씨</h1>
+          <h1>소개자료</h1>
         </>
       );
     }
